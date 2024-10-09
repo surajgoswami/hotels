@@ -5,7 +5,7 @@
 // app.get('/',function(req,res){
 // res.send("hello would'")
 // })
-
+//suraj
 // app.get('/pooja',function(req,res){
 //     let person={
 //         name:"skns",
@@ -13,7 +13,7 @@
 //     }
 //     res.send(person)
 //     })
-
+//jay neem karoli baba
 // app.post('/item',function(res,res){
 //     res.send("jay mata di")
 // })
